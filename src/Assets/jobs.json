@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "position": "Fullstack Developer",
+    "role": "Fullstack",
+    "level": "Full Stack",
+    "experience": 6,
+    "salary":10000
+
+  },
+  {
+    "id": 2,
+    "position": "Content Marketing Specialist",
+    "role": "Digital Marketing",
+    "level": "Negative",
+    "experience": 3,
+    "salary": 20000
+    
+  },
+  {
+    "id": 3,
+    "position": "UI/UX Designer",
+    "role": "Frontend",
+    "level": "Junior",
+    "experience": 1,
+    "salary": 30000
+   
+  },
+  {
+    "id": 4,
+    "position": "Software Engineer",
+    "role": "Full Stack",
+    "level": "Midweight",
+    "experience": 4,
+    "salary": 40000
+   
+  },
+  {
+    "id": 5,
+    "position": "Database Administrator",
+    "role": "Backend",
+    "level": "Junior",
+    "experience": 2,
+    "salary": 50000
+   
+  },
+  {
+    "id": 6,
+   "position": "Infrastructure Engineer",
+    "role": "Devops",
+    "level": "Negative",
+    "experience": 4,
+    "salary": 15000
+ 
+  },
+  {
+    "id": 7,
+   "position": "User Interface Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "experience": 3,
+    "salary": 20000
+   
+  },
+  {
+    "id": 8,
+    "position": "Full Stack JavaScript Developer",
+    "role": "Fullstack",
+    "level": "Negative",
+    "experience": 6,
+    "salary": 70000
+   
+  },
+  {
+    "id": 9,
+"position": "Front-End Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "experience": 0,
+    "salary": 90000
+    
+  },
+  {
+    "id": 10,
+ "position": "JavaScript Developer",
+    "role": "Frontend",
+    "level": "Senior",
+    "experience": 2,
+    "salary": 10000
+    
+  }
+ ]
